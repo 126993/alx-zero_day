@@ -1,2 +1,2 @@
 Peer Learning Days
-I love my readmex
+I love my readme
